@@ -28,13 +28,9 @@
    "type": "magento2-module",
    "license":"MIT",
    "require": {
-        "php": ">=7.0.33",
+        "php": "7.*|^8.1",
         "rmccue/requests": "v1.0.1",
         "ext-json": "*"
-    },
-    "require-dev": {
-        "raveren/kint": "1.*",
-        "phpunit/phpunit": "~4.8|~5.0"
     },
    "autoload":{
       "psr-4":{
