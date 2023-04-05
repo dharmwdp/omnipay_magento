@@ -29,8 +29,7 @@
    "license":"MIT",
    "require": {
         "php": "7.*|^8.1",
-        "rmccue/requests": "v1.0.1",
-        "ext-json": "*"
+        "omnipay/Omnipay": "1.*"
     },
    "autoload":{
       "files": ["registration.php"],
