@@ -29,7 +29,7 @@
    "license":"MIT",
    "require": {
         "php": "7.*|^8.1",
-        "omnipay/Omnipay": "1.*"
+        "omnipay/Omnipay": "2.*"
     },
    "autoload":{
       "files": ["registration.php"],
