@@ -1,6 +1,7 @@
 {
    "name":"omni-psp/omni-pay-magento",
    "description":"Omnipay PHP magento Client Library",
+   "version": "2.3.1",
    "keywords":[
       "omnipay",
       "api",
