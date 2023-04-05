@@ -29,12 +29,12 @@
    "license":"MIT",
    "require": {
         "php": "7.*|^8.1",
-        "omnipay/Omnipay": "2.*"
+        "omnipay/omnipay": "2.*"
     },
    "autoload":{
       "files": ["registration.php"],
       "psr-4":{
-         "Omnipay\\omnipay_magento\\":""
+         "omnipay\\omnipay_magento\\":""
       }
    }
 }
